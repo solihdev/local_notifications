@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:local_notifications/data/notification_service/local_notification_service.dart';
+import 'package:local_notifications/data/service/notification_service/local_notification_service.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
